@@ -1,3 +1,5 @@
+![alt text](https://github.com/Sarfarazsajjad/Angular-Material-UI-Search-Page-Style-1/blob/master/UI%20Screen%20Shot.png)
+
 # Angular Material Search UI Landing Page
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
